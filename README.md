@@ -1,6 +1,8 @@
 # Assistant Voyage
 
-Petit projet d'API pour préparer un voyage.
+Nom : Bury
+Prénom : Florian
+Mail Coda : florian.bury@coda-student.school
 
 L'application permet de :
 
